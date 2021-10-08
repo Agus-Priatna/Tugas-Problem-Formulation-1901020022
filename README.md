@@ -1,5 +1,5 @@
 # **TUGAS PRONLEM FORMULATION**
-# <img src="puzzle 1901020022.png">
+# <img src="kotak.png">
 
 ## **Penjelasan**
 
