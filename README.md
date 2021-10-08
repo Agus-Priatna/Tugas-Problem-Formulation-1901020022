@@ -1,4 +1,4 @@
-# **TUGAS PRONLEM FORMULATION**
+# **TUGAS PROBLEM FORMULATION**
 # <img src="kotak.png">
 
 ## **Penjelasan**
